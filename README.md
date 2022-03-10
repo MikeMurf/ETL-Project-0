@@ -1,4 +1,4 @@
-### Please note that the Project-2-new repository was created to overcome a problem with Mike's local Git repository. All the project work was conducted in the  MikeMurf/Project-2 repository. Please refer to that for a view of the project team's collaborative work. Many thanks.
+### Please note that the ETL-Project-1 repository was created to overcome a problem with Mike's local Git repository. All the project work was conducted in this  MikeMurf/ETL-Project-0 repository. Please refer to this repository for a view of the project team's collaborative work. Many thanks.
 
 # Project-2
 ## Extract, Transform, and Load Project for the Monash Data Analytical Bootcamp
